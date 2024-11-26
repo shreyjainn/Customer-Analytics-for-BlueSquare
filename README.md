@@ -28,12 +28,9 @@ This project provided actionable insights for BlueSquare Store to optimize their
 
 ---
 
-Feel free to explore the repository for more details and resources related to the project.
-
 Here is the Generated PDF: [BlueSquare](https://github.com/user-attachments/files/16918562/BlueSquare.pdf)
-[Excel file](https://github.com/shreyjainn/Customer-Analytics-for-BlueSquare/blob/main/BlueSquare.xlsx)
 
-
+Feel free to explore the repository for more details and resources related to the project.
 
 
 
